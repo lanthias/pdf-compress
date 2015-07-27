@@ -1,0 +1,7 @@
+{
+    "service": "lanthias/pdf-compress",
+    "req": {
+        "method": "add",
+        "params": [1, 2]
+    }
+}

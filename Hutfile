@@ -1,0 +1,12 @@
+# Name for the service - we recommend using snake-case
+name: pdf-compress
+
+# Service author - must be a valid StackHut user
+author: lanthias
+
+# description of the service
+description: Awesome service in python
+
+# stack we use, in terms of the OS and language runtime
+baseos: fedora
+stack: python
