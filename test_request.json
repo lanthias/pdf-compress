@@ -1,7 +1,7 @@
 {
     "service": "lanthias/pdf-compress",
     "req": {
-        "method": "add",
-        "params": [1, 2]
+        "method": "compress",
+        "params": ["https://www.cs.ox.ac.uk/jeremy.gibbons/publications/scalagp.pdf"]
     }
 }

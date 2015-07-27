@@ -5,8 +5,11 @@ name: pdf-compress
 author: lanthias
 
 # description of the service
-description: Awesome service in python
+description: I compress PDFs
 
 # stack we use, in terms of the OS and language runtime
 baseos: fedora
 stack: python
+
+os_deps : 
+    - ghostscript
